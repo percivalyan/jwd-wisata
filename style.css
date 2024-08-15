@@ -1,0 +1,146 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Styling untuk header */
+.header {
+    background-color: #FF8C00;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Styling untuk grid di hero section */
+.hero {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 300px);
+    gap: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease-in-out;
+}
+
+.hero img:hover {
+    transform: scale(1.05);
+}
+
+/* Large image spanning two columns */
+.hero .large {
+    grid-column: span 2;
+}
+
+/* Styling untuk navbar */
+.navbar {
+    background-color: rgba(0, 0, 0, 0.85);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-nav .nav-link {
+    color: #FF8C00 !important;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fff !important;
+}
+
+/* Styling untuk card */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Paket Wisata section */
+.paket-wisata {
+    padding: 50px 0;
+}
+
+.paket-wisata .card {
+    margin-bottom: 20px;
+}
+
+.paket-wisata .card-title {
+    font-weight: 600;
+}
+
+.paket-wisata .card-body {
+    padding: 20px;
+}
+
+.paket-wisata .video-card iframe {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+/* Responsive adjustments */
+@media (min-width: 768px) {
+    .paket-wisata .card-deck {
+        margin-bottom: 30px;
+    }
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    border-top: 5px solid #FF8C00;
+    /* Digital orange line at the top of the footer */
+}
+
+.footer h5 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #FF8C00;
+    /* Matching the digital orange */
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #fff;
+    /* White color on hover */
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer .fa {
+    margin-right: 10px;
+}
