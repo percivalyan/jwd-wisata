@@ -62,8 +62,8 @@
                                 <img src="https://images.unsplash.com/photo-1596402184320-417e7178b2cd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 " class="card-img-top" alt="Paket 1">
                                 <div class="card-body">
-                                    <h5 class="card-title">Magelang Trip Borobudur 2 Hari</h5>
-                                    <p class="card-text">Nikmati perjalanan 2 hari ke Candi Borobudur di Magelang dengan pemandangan menakjubkan dan pengalaman budaya yang kaya.</p>
+                                    <h5 class="card-title">Magelang Trip Borobudur</h5>
+                                    <p class="card-text">Nikmati perjalanan ke Candi Borobudur di Magelang dengan pemandangan menakjubkan dan pengalaman budaya yang kaya.</p>
                                 </div>
                             </div>
                         </div>
@@ -73,8 +73,8 @@
                                 <img src="https://images.unsplash.com/photo-1628488321763-eb2f79b7f3b5?q=80&w=1997&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 " class="card-img-top" alt="Paket 2">
                                 <div class="card-body">
-                                    <h5 class="card-title">Prambanan - Malioboro Jogja Trip 2 Hari</h5>
-                                    <p class="card-text">Eksplorasi Candi Prambanan dan Malioboro di Jogja selama 2 hari. Pengalaman wisata yang mempesona dan belanja di pasar malam.</p>
+                                    <h5 class="card-title">Prambanan - Malioboro Jogja Trip</h5>
+                                    <p class="card-text">Eksplorasi Candi Prambanan dan Malioboro di Jogja. Pengalaman wisata yang mempesona dan belanja di pasar malam.</p>
                                 </div>
                             </div>
                         </div>
@@ -84,8 +84,8 @@
                                 <img src="https://images.unsplash.com/photo-1617421358309-d3c9809ffda7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 " class="card-img-top" alt="Paket 3">
                                 <div class="card-body">
-                                    <h5 class="card-title">Paket Pantai Parangtritis dan Hotel 2 Hari</h5>
-                                    <p class="card-text">Rasakan keindahan Pantai Parangtritis dan menginap di hotel selama 2 hari. Liburan yang sempurna di pesisir selatan Jawa.</p>
+                                    <h5 class="card-title">Paket Pantai Parangtritis</h5>
+                                    <p class="card-text">Rasakan keindahan Pantai Parangtritis. Liburan yang sempurna di pesisir selatan Jawa.</p>
                                 </div>
                             </div>
                         </div>
@@ -95,8 +95,8 @@
                                 <img src="https://images.unsplash.com/photo-1704801467339-8a00f9e1712c?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 " class="card-img-top" alt="Paket 4">
                                 <div class="card-body">
-                                    <h5 class="card-title">Dieng Trip 2 Hari</h5>
-                                    <p class="card-text">Jelajahi dataran tinggi Dieng selama 2 hari dengan pemandangan alam yang menakjubkan dan udara sejuk pegunungan.</p>
+                                    <h5 class="card-title">Dieng Trip</h5>
+                                    <p class="card-text">Jelajahi dataran tinggi Dieng dengan pemandangan alam yang menakjubkan dan udara sejuk pegunungan.</p>
                                 </div>
                             </div>
                         </div>
